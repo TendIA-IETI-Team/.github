@@ -25,7 +25,7 @@ Six engineers combining data science, product thinking and Design Thinking to br
 
 Our approach is designed to solve the two hardest problems in alternative credit scoring: **fraud-proof data** and **cold-start with no historical defaults**.
 
-* **Non-self-reported data:** Risk signals come from POS terminals, wholesale distributors and Open Finance (Decreto 0368) — never from what the tendero types in himself.
+* **Non-self-reported data:** Risk signals come from POS terminals, wholesale distributors and Open Finance (Decreto 0368); never from what the tendero types in himself.
 * **Baseline-first modeling:** We start with an interpretable logistic regression/scorecard, validated out-of-time (KS, Gini/AUC), before ever considering an ensemble.
 * **B2B2C Scoring-as-a-Service:** Banks and fintechs pay for the risk score via API; the tendero gets access to fair, formal credit instead of the *gota a gota*.
 * **Regulatory-aware by design:** Built around Colombia's Open Finance mandate and the SFC's Arenera regulatory sandbox, so a real financial partner can eventually trust and pay for the score.
@@ -49,10 +49,10 @@ Our approach is designed to solve the two hardest problems in alternative credit
 
 > **"El que fía, pierde... a menos que tenga los datos de su lado."**
 
-We prioritize verifiable data, interpretable models and regulatory trust — proving that a *tienda de barrio* can be as creditworthy as any formal business, once the right data speaks for it.
+We prioritize verifiable data, interpretable models and regulatory trust; proving that a *tienda de barrio* can be as creditworthy as any formal business, once the right data speaks for it.
 
 ---
 
 <p align="center">
-  <i>Escuela Colombiana de Ingeniería Julio Garavito · IETI 2026-2 · Prof. Diego A. Jara</i>
+  <i>Escuela Colombiana de Ingeniería Julio Garavito</i>
 </p>
